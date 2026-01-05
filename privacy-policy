@@ -1,0 +1,96 @@
+Introduction
+This fitness tracking application ("the App") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+By using the App, you agree to the collection and use of information in accordance with this policy.
+Information We Collect
+Personal Information
+We collect information that you provide directly to us, including:
+• Account information (username, email address, password)
+• Profile information (profile picture, display name, bio)
+• Fitness goals and preferences
+• Daily check-in data and activity logs
+Health and Fitness Data
+To provide our fitness tracking services, we collect:
+• Meal photos and nutritional information
+• Workout videos and training session data
+• Nutrition goals and macro tracking data
+• Daily streak information and XP progress
+Social Features Data
+When you interact with social features, we collect:
+• Friend connections and relationships
+• Group memberships and activities
+• Challenge participation and competition data
+• Direct messages and communications
+How We Use Your Information
+We use the information we collect to:
+• Provide, maintain, and improve our services
+• Process your transactions and manage your subscription
+• Track your fitness progress and provide personalized insights
+• Enable social features like friend connections and challenges
+• Send you notifications about your activity and achievements
+• Respond to your requests and provide customer support
+AI Usage and Data Processing
+The App uses artificial intelligence (AI) services to analyze your fitness data and provide personalized insights:
+Meal Analysis
+When you upload photos of your meals, we use AI technology to analyze the image and estimate nutritional information. This process:
+• Sends your meal photos to third-party AI services for analysis
+• Generates estimates of calories, macronutrients, and food items
+• Provides personalized feedback on your nutrition goals
+Important AI Disclaimers
+• AI-generated nutritional estimates are approximations and may not be 100% accurate
+• Your meal photos may be processed by third-party AI services
+• We do not use your data to train AI models or for purposes beyond providing our services
+• Always consult healthcare professionals for medical advice
+Payment Processing
+We use Stripe as our third-party payment processor for premium subscriptions. When you make a payment:
+• Your payment information is processed directly by Stripe
+• We do not store your full credit card information on our servers
+• We receive limited payment information (last 4 digits, card brand) for display purposes
+• Stripe's privacy policy applies to payment data: stripe.com/privacy
+Data Storage and Security
+We use Supabase as our database and storage provider. Your data:
+• Is stored securely on Supabase's infrastructure
+• Is encrypted in transit and at rest
+• Is protected by industry-standard security measures
+• Is subject to Supabase's security practices and privacy policy
+While we implement reasonable security measures, no method of transmission over the internet is 100% secure. We cannot guarantee absolute security of your data.
+Data Sharing and Disclosure
+We do not sell your personal information. We may share your information in the following circumstances:
+• With other users based on your privacy settings (public profile, friend connections)
+• With service providers who help us operate the App (Supabase, Stripe, AI services)
+• When required by law or to protect rights and safety
+• In connection with a business transfer or acquisition
+Your Rights and Choices
+You have the following rights regarding your data:
+• Access: Request a copy of your personal data
+• Correction: Update or correct your information
+• Deletion: Request deletion of your account and data
+• Export: Download your data in a portable format
+• Privacy Controls: Manage visibility and sharing settings
+You can exercise these rights through the Privacy Settings page or by contacting us directly.
+Data Retention
+We retain your information for as long as your account is active or as needed to provide services. When you delete your account:
+• Your personal data will be deleted within 30 days
+• Some information may be retained for legal or security purposes
+• Backups may take up to 90 days to be fully removed
+Children's Privacy
+The App is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
+International Data Transfers
+Your information may be transferred to and maintained on servers located outside of your jurisdiction where data protection laws may differ. By using the App, you consent to the transfer of your information to these locations.
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+• Posting the new Privacy Policy in the App
+• Updating the "Last Updated" date
+• Sending a notification for material changes
+Your continued use of the App after changes become effective constitutes acceptance of the updated policy.
+Third-Party Services
+This App uses the following third-party services:
+• Supabase (database and authentication)
+• Stripe (payment processing)
+• AI service providers (meal and workout analysis)
+These services have their own privacy policies governing how they handle your data. We encourage you to review their privacy policies.
+Contact Us
+If you have questions or concerns about this Privacy Policy or our data practices, please contact us:
+• Email: veldorautomation@gmail.com
+You can also reach us through the app's support features in Settings.
+Consent
+By using the App, you consent to this Privacy Policy and agree to its terms. If you do not agree with this policy, please do not use the App.
